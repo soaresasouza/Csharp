@@ -1,2 +1,3 @@
 # csharp
-Primeiro projeto em C# - Digital Innovation One
+primeiro aplicação teste em c# 
+Curso: Primeiros passos com .NET - Digital Innovation One
