@@ -1,0 +1,15 @@
+C:\Users\User\Documents\DIO\7- Primeiros passos com .NET\Revisao1\bin\Debug\net6.0\Revisao1.exe
+C:\Users\User\Documents\DIO\7- Primeiros passos com .NET\Revisao1\bin\Debug\net6.0\Revisao1.deps.json
+C:\Users\User\Documents\DIO\7- Primeiros passos com .NET\Revisao1\bin\Debug\net6.0\Revisao1.runtimeconfig.json
+C:\Users\User\Documents\DIO\7- Primeiros passos com .NET\Revisao1\bin\Debug\net6.0\Revisao1.dll
+C:\Users\User\Documents\DIO\7- Primeiros passos com .NET\Revisao1\bin\Debug\net6.0\ref\Revisao1.dll
+C:\Users\User\Documents\DIO\7- Primeiros passos com .NET\Revisao1\bin\Debug\net6.0\Revisao1.pdb
+C:\Users\User\Documents\DIO\7- Primeiros passos com .NET\Revisao1\obj\Debug\net6.0\Revisao1.csproj.AssemblyReference.cache
+C:\Users\User\Documents\DIO\7- Primeiros passos com .NET\Revisao1\obj\Debug\net6.0\Revisao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DIO\7- Primeiros passos com .NET\Revisao1\obj\Debug\net6.0\Revisao1.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DIO\7- Primeiros passos com .NET\Revisao1\obj\Debug\net6.0\Revisao1.AssemblyInfo.cs
+C:\Users\User\Documents\DIO\7- Primeiros passos com .NET\Revisao1\obj\Debug\net6.0\Revisao1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DIO\7- Primeiros passos com .NET\Revisao1\obj\Debug\net6.0\Revisao1.dll
+C:\Users\User\Documents\DIO\7- Primeiros passos com .NET\Revisao1\obj\Debug\net6.0\ref\Revisao1.dll
+C:\Users\User\Documents\DIO\7- Primeiros passos com .NET\Revisao1\obj\Debug\net6.0\Revisao1.pdb
+C:\Users\User\Documents\DIO\7- Primeiros passos com .NET\Revisao1\obj\Debug\net6.0\Revisao1.genruntimeconfig.cache
